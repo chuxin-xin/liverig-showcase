@@ -6,7 +6,7 @@ LiveRig 不是 DAW，也不是虚拟声卡驱动。它只做一件事：把话�
 
 > 本仓库是产品展示与试用入口。核心引擎、插件桥、插件参数适配库和调音数据不公开；试用版通过 Releases / Issue 申请获取。
 
-![LiveRig 混音台](screenshots/mixer-crop.png)
+![LiveRig 推子与电平](screenshots/mixer-crop.png)
 
 ## 它能做什么
 
@@ -35,7 +35,7 @@ LiveRig 不是 DAW，也不是虚拟声卡驱动。它只做一件事：把话�
 
 ## 截图
 
-![电平与削波](screenshots/left-meters.png)
+![设备端点列表](screenshots/left-meters.png)
 
 ![声卡路由矩阵](screenshots/routing-matrix.png)
 
