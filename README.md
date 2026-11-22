@@ -37,7 +37,7 @@ LiveRig 不是 DAW，也不是虚拟声卡驱动。它只做一件事：把话�
 
 ![电平与削波](screenshots/left-meters.png)
 
-![底部电平表](screenshots/bottom-meters.png)
+![声卡路由矩阵](screenshots/routing-matrix.png)
 
 ## 下载与试用
 
