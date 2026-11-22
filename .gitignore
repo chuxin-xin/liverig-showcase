@@ -1,0 +1,17 @@
+# 构建产物与本地文件
+*.exe
+*.dll
+*.pyd
+*.zip
+*.7z
+*.log
+*.wav
+*.csv
+*.tmp
+
+# 不把源码/测试/参数库带进公开仓库
+liverig/
+liverig_rt/
+tests/
+plugin-bridge/
+docs/plugin-specs/
